@@ -82,6 +82,7 @@ li.inactive {
 
 .inside-menu .inactive a:hover {
         cursor: not-allowed;
+         color:darkgray;
 }
 
 .down a:hover{
@@ -402,7 +403,7 @@ img.us{
     float: right;
     margin-right:100px;
     height: 200px;
-    width: 400px;
+    width: 300px;
 }
 
 .container {
